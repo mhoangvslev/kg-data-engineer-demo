@@ -57,7 +57,7 @@ Unlike generic SPARQL benchmarks, the NPD benchmark focuses on challenges specif
 
 ## Demo
 
-See USER_GUIDE.md for the demo subject.
+See [USER_GUIDE.md](USER_GUIDE.md) for the demo subject.
 
 ## References
 
